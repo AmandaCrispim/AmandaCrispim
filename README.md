@@ -1,7 +1,7 @@
 ## Olá!! 
  <div>
   <a href="https://github.com/AmandaCrispim"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaCrispim" src="https://github.com/AmandaCrispim/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaCrispim" src="https://github.com/AmandaCrispim/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 </div>
 <div style="display: flex; align-itens: center; justify: center; gap:10%; margin-top: 5%; margin-bottom: 7%;"><br>
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
