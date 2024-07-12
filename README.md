@@ -1,4 +1,4 @@
-## Olá!! 
+## Olá!! Bem vindo ao meu GitHub :)
  <div>
   <a href="https://github.com/AmandaCrispim"> 
   <img  src="https://github-readme-stats.vercel.app/api?username=AmandaCrispim&show_icons=true&theme=radical" />
